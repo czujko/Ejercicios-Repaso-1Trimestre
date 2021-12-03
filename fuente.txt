@@ -1,0 +1,1303 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <title>TeLoSabes.com &#8211; Comprueba si de verdad te lo sabes</title>
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="TeLoSabes.com &raquo; Feed" href="https://telosabes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TeLoSabes.com &raquo; RSS de los comentarios" href="https://telosabes.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/telosabes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.13"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://telosabes.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='gamipress-css-css'  href='https://telosabes.com/wp-content/plugins/gamipress/assets/css/gamipress.min.css?ver=1.8.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='h5p-plugin-styles-css'  href='https://telosabes.com/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css?ver=1.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magaziness-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Bitter:400,400italic,700' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://telosabes.com/wp-content/themes/magazine-7/assets/bootstrap/css/bootstrap.min.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-7-style-css'  href='https://telosabes.com/wp-content/themes/magazine-7/style.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='magaziness-css'  href='https://telosabes.com/wp-content/themes/magaziness/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-v5-css'  href='https://telosabes.com/wp-content/themes/magazine-7/assets/font-awesome-v5/css/fontawesome-all.min.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://telosabes.com/wp-content/themes/magazine-7/assets/slick/css/slick.min.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='sidr-css'  href='https://telosabes.com/wp-content/themes/magazine-7/assets/sidr/css/jquery.sidr.dark.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://telosabes.com/wp-content/themes/magazine-7/assets/magnific-popup/magnific-popup.css?ver=5.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-7-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Source%20Sans%20Pro:400,400i,700,700i|Montserrat:400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://telosabes.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-217625-10' async></script>
+<script type='text/javascript'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["telosabes.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-217625-10", {"anonymize_ip":true});
+gtag("config", "G-9BVGCWWJ0S");
+</script>
+<link rel='https://api.w.org/' href='https://telosabes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://telosabes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://telosabes.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.13" />
+<meta name="generator" content="Site Kit by Google 1.40.0" /><meta name="google-site-verification" content="bwoM9J1ZkgNYXTfFpppHK4mruu6i8FNXL8UowcDeem0">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		        <style type="text/css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+
+            
+
+        </style>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({"google_ad_client":"ca-pub-7638412824309218","enable_page_level_ads":true,"tag_partner":"site_kit"});</script><link rel="icon" href="https://telosabes.com/wp-content/uploads/2019/10/logoTeLoSabes-sintexto.png" sizes="32x32" />
+<link rel="icon" href="https://telosabes.com/wp-content/uploads/2019/10/logoTeLoSabes-sintexto.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://telosabes.com/wp-content/uploads/2019/10/logoTeLoSabes-sintexto.png" />
+<meta name="msapplication-TileImage" content="https://telosabes.com/wp-content/uploads/2019/10/logoTeLoSabes-sintexto.png" />
+</head>
+
+<body data-rsssl=1 class="home blog wp-custom-logo hfeed align-content-left">
+
+    <div id="af-preloader">
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+        </div>
+    </div>
+
+<div id="page" class="site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="magazine-7-woocommerce-store-notice">
+    </div>
+<header id="masthead" class="site-header">
+        <div class="masthead-banner " data-background="">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="site-branding">
+                        <a href="https://telosabes.com/" class="custom-logo-link" rel="home"><img width="2560" height="250" src="https://telosabes.com/wp-content/uploads/2020/01/cabecera-1.png" class="custom-logo" alt="TeLoSabes.com" srcset="https://telosabes.com/wp-content/uploads/2020/01/cabecera-1.png 2560w, https://telosabes.com/wp-content/uploads/2020/01/cabecera-1-300x29.png 300w, https://telosabes.com/wp-content/uploads/2020/01/cabecera-1-768x75.png 768w, https://telosabes.com/wp-content/uploads/2020/01/cabecera-1-1024x100.png 1024w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>                            <h1 class="site-title font-family-1">
+                                <a href="https://telosabes.com/" rel="home">TeLoSabes.com</a>
+                            </h1>
+                        
+                                                    <p class="site-description">Comprueba si de verdad te lo sabes</p>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav id="site-navigation" class="main-navigation">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="navigation-container">
+                        
+                        <div class="cart-search">
+                            
+                            <span class="af-search-click icon-search">
+                                    <i class="fa fa-search"></i>
+                            </span>
+
+                        </div>
+                        <span class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
+                                <span class="screen-reader-text">Primary Menu</span>
+                                 <i class="ham"></i>
+                            </span>
+
+                        <div class="menu main-menu"><ul id="primary-menu" class="menu"><li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-49"><a href="https://telosabes.com/inicio/">Inicio</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43"><a href="https://telosabes.com/primaria/">Primaria</a>
+<ul class="sub-menu">
+	<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46"><a href="https://telosabes.com/primaria/1o-primaria/">5º Primaria</a>
+	<ul class="sub-menu">
+		<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://telosabes.com/primaria/1o-primaria/matematicas-5o-primaria/">Matemáticas 5º Primaria</a></li>
+		<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://telosabes.com/primaria/1o-primaria/lengua-5o-primaria/">Lengua 5º Primaria</a></li>
+	</ul>
+</li>
+	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-44"><a href="https://telosabes.com/primaria/2o-primaria/">6º Primaria</a>
+	<ul class="sub-menu">
+		<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://telosabes.com/primaria/2o-primaria/matematicas-6o-primaria/">Matemáticas 6º Primaria</a></li>
+		<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://telosabes.com/primaria/2o-primaria/lengua-5o-primaria/">Lengua 6º Primaria</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-307"><a href="https://telosabes.com/category/secundaria/">Secundaria</a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a href="/wp-login.php">Acceder</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349"><a href="https://telosabes.com/category/test/fp-ciclo-dam/">FP Ciclo DAM</a></li>
+<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-350"><a href="https://telosabes.com/category/test/informatica/fp-ciclo-daw/">FP Ciclo DAW</a></li>
+</ul></div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<div id="af-search-wrap">
+    <div class="af-search-box table-block">
+        <div class="table-block-child v-center text-center">
+            <form role="search" method="get" class="search-form" action="https://telosabes.com/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form>        </div>
+    </div>
+    <div class="af-search-close af-search-click">
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+            <div class="banner-trending-posts-wrapper">
+
+                                <div class="trending-posts-carousel">
+                                                <div class="slick-item">
+                                <figure class="carousel-image">
+                                    <div class="no-gutter-col">
+                                        <figure class="featured-article">
+                                            <div class="featured-article-wrapper">
+                                                <div class="data-bg data-bg-hover data-bg-hover data-bg-featured" data-background="https://telosabes.com/wp-content/uploads/2021/02/odoo-e1613951671596-150x150.jpg">
+                                                    <a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/"></a>
+                                                </div>
+                                            </div>
+                                        </figure>
+
+                                        <figcaption>
+
+                                            <div class="title-heading">
+                                                <h3 class="article-title article-title-1">
+                                                    <a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/">
+                                                        Test 2º DAM Sistemas de Gestión Empresarial. Odoo                                                    </a>
+                                                </h3>
+                                            </div>
+
+                                        </figcaption>
+                                    </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                                                    <div class="slick-item">
+                                <figure class="carousel-image">
+                                    <div class="no-gutter-col">
+                                        <figure class="featured-article">
+                                            <div class="featured-article-wrapper">
+                                                <div class="data-bg data-bg-hover data-bg-hover data-bg-featured" data-background="https://telosabes.com/wp-content/uploads/2021/02/Laravel-logo-e1613903803821-150x150.jpg">
+                                                    <a href="https://telosabes.com/test-2o-daw-laravel/"></a>
+                                                </div>
+                                            </div>
+                                        </figure>
+
+                                        <figcaption>
+
+                                            <div class="title-heading">
+                                                <h3 class="article-title article-title-1">
+                                                    <a href="https://telosabes.com/test-2o-daw-laravel/">
+                                                        Test 2º DAW. Laravel.                                                    </a>
+                                                </h3>
+                                            </div>
+
+                                        </figcaption>
+                                    </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                                                    <div class="slick-item">
+                                <figure class="carousel-image">
+                                    <div class="no-gutter-col">
+                                        <figure class="featured-article">
+                                            <div class="featured-article-wrapper">
+                                                <div class="data-bg data-bg-hover data-bg-hover data-bg-featured" data-background="https://telosabes.com/wp-content/uploads/2021/02/Hibernate_logo_a-150x150.png">
+                                                    <a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/"></a>
+                                                </div>
+                                            </div>
+                                        </figure>
+
+                                        <figcaption>
+
+                                            <div class="title-heading">
+                                                <h3 class="article-title article-title-1">
+                                                    <a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/">
+                                                        Test 2º DAM Acceso a datos. Hibernate.                                                    </a>
+                                                </h3>
+                                            </div>
+
+                                        </figcaption>
+                                    </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                                                    <div class="slick-item">
+                                <figure class="carousel-image">
+                                    <div class="no-gutter-col">
+                                        <figure class="featured-article">
+                                            <div class="featured-article-wrapper">
+                                                <div class="data-bg data-bg-hover data-bg-hover data-bg-featured" data-background="https://telosabes.com/wp-content/uploads/2021/02/The-TCP-IP-UDP-IP-Stack-e1613454492352-150x150.jpg">
+                                                    <a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/"></a>
+                                                </div>
+                                            </div>
+                                        </figure>
+
+                                        <figcaption>
+
+                                            <div class="title-heading">
+                                                <h3 class="article-title article-title-1">
+                                                    <a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/">
+                                                        Test 2º DAM PSP &#8211; Programación de comunicaciones en red                                                    </a>
+                                                </h3>
+                                            </div>
+
+                                        </figcaption>
+                                    </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                                                    <div class="slick-item">
+                                <figure class="carousel-image">
+                                    <div class="no-gutter-col">
+                                        <figure class="featured-article">
+                                            <div class="featured-article-wrapper">
+                                                <div class="data-bg data-bg-hover data-bg-hover data-bg-featured" data-background="https://telosabes.com/wp-content/uploads/2020/11/Threads-150x150.jpg">
+                                                    <a href="https://telosabes.com/test-ciclo-fp-dam-programacion-de-servicios-y-procesos-temas-1-y-2/"></a>
+                                                </div>
+                                            </div>
+                                        </figure>
+
+                                        <figcaption>
+
+                                            <div class="title-heading">
+                                                <h3 class="article-title article-title-1">
+                                                    <a href="https://telosabes.com/test-ciclo-fp-dam-programacion-de-servicios-y-procesos-temas-1-y-2/">
+                                                        Test ciclo FP DAM &#8211; Programación de Servicios y Procesos- Temas 1 y 2                                                    </a>
+                                                </h3>
+                                            </div>
+
+                                        </figcaption>
+                                    </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                                        </div>
+
+            </div>
+            <!-- Trending line END -->
+            
+        <section class="af-blocks">
+            
+
+            <div class="container">
+                
+                    <div class="af-main-banner-featured-posts">
+                                <div class="widget-title-section">
+                                                                            <h2 class="section-title">TeloSabes destacados</h2>
+                                                                                                        </div>
+
+                        <div class="featured-posts-grid">
+                            <div class="row">
+
+                                                                        <div class="col-md-3 col-sm-6">
+                                            <div class="spotlight-post" data-mh="banner-height">
+                                                <figure class="featured-article">
+                                                    <div class="featured-article-wrapper">
+                                                        <div class="data-bg data-bg-hover data-bg-hover data-bg-featured"
+                                                             data-background="https://telosabes.com/wp-content/uploads/2021/02/odoo-e1613951671596.jpg">
+                                                            <a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/"></a>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                                <div class="figure-categories figure-categories-bg">
+                                                                                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                                                </div>
+                                                <figcaption>
+
+                                                    <div class="title-heading">
+                                                        <h3 class="article-title article-title-1">
+                                                            <a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/">
+                                                                Test 2º DAM Sistemas de Gestión Empresarial. Odoo                                                            </a>
+                                                        </h3>
+                                                    </div>
+                                                    <div class="grid-item-metadata">
+                                                        
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            9 meses ago        </span>
+        </span>
+                                                            </div>
+
+                                                </figcaption>
+                                            </div>
+                                        </div>
+
+                                                                            <div class="col-md-3 col-sm-6">
+                                            <div class="spotlight-post" data-mh="banner-height">
+                                                <figure class="featured-article">
+                                                    <div class="featured-article-wrapper">
+                                                        <div class="data-bg data-bg-hover data-bg-hover data-bg-featured"
+                                                             data-background="https://telosabes.com/wp-content/uploads/2021/02/Laravel-logo-e1613903803821.jpg">
+                                                            <a href="https://telosabes.com/test-2o-daw-laravel/"></a>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                                <div class="figure-categories figure-categories-bg">
+                                                                                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/fp-ciclo-daw/" alt="View all posts in FP Ciclo DAW"> 
+                                 FP Ciclo DAW
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                                                </div>
+                                                <figcaption>
+
+                                                    <div class="title-heading">
+                                                        <h3 class="article-title article-title-1">
+                                                            <a href="https://telosabes.com/test-2o-daw-laravel/">
+                                                                Test 2º DAW. Laravel.                                                            </a>
+                                                        </h3>
+                                                    </div>
+                                                    <div class="grid-item-metadata">
+                                                        
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            10 meses ago        </span>
+        </span>
+                                                            </div>
+
+                                                </figcaption>
+                                            </div>
+                                        </div>
+
+                                                                            <div class="col-md-3 col-sm-6">
+                                            <div class="spotlight-post" data-mh="banner-height">
+                                                <figure class="featured-article">
+                                                    <div class="featured-article-wrapper">
+                                                        <div class="data-bg data-bg-hover data-bg-hover data-bg-featured"
+                                                             data-background="https://telosabes.com/wp-content/uploads/2021/02/Hibernate_logo_a-675x222.png">
+                                                            <a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/"></a>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                                <div class="figure-categories figure-categories-bg">
+                                                                                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                                                </div>
+                                                <figcaption>
+
+                                                    <div class="title-heading">
+                                                        <h3 class="article-title article-title-1">
+                                                            <a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/">
+                                                                Test 2º DAM Acceso a datos. Hibernate.                                                            </a>
+                                                        </h3>
+                                                    </div>
+                                                    <div class="grid-item-metadata">
+                                                        
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            10 meses ago        </span>
+        </span>
+                                                            </div>
+
+                                                </figcaption>
+                                            </div>
+                                        </div>
+
+                                                                            <div class="col-md-3 col-sm-6">
+                                            <div class="spotlight-post" data-mh="banner-height">
+                                                <figure class="featured-article">
+                                                    <div class="featured-article-wrapper">
+                                                        <div class="data-bg data-bg-hover data-bg-hover data-bg-featured"
+                                                             data-background="https://telosabes.com/wp-content/uploads/2021/02/The-TCP-IP-UDP-IP-Stack-e1613454492352-675x409.jpg">
+                                                            <a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/"></a>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                                <div class="figure-categories figure-categories-bg">
+                                                                                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                                                </div>
+                                                <figcaption>
+
+                                                    <div class="title-heading">
+                                                        <h3 class="article-title article-title-1">
+                                                            <a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/">
+                                                                Test 2º DAM PSP &#8211; Programación de comunicaciones en red                                                            </a>
+                                                        </h3>
+                                                    </div>
+                                                    <div class="grid-item-metadata">
+                                                        
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            10 meses ago        </span>
+        </span>
+                                                            </div>
+
+                                                </figcaption>
+                                            </div>
+                                        </div>
+
+                                                                </div>
+                        </div>
+                    </div>
+                            </div>
+
+        </section>
+
+        <!-- end slider-section -->
+        
+
+
+
+
+
+
+    <div id="content" class="site-content">
+    <div class="container">
+           
+                <div id="primary" class="content-area">
+                    <main id="main" class="site-main">
+                        <div class="row">
+                        
+
+        <article id="post-344" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-344 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-dam category-informatica"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2021/02/odoo-617x380.jpg">
+                        <a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/">
+                        Test 2º DAM Sistemas de Gestión Empresarial. Odoo                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            9 meses ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-341" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-341 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-daw category-informatica"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2021/02/Laravel-logo-400x380.jpg">
+                        <a href="https://telosabes.com/test-2o-daw-laravel/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/fp-ciclo-daw/" alt="View all posts in FP Ciclo DAW"> 
+                                 FP Ciclo DAW
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-2o-daw-laravel/">
+                        Test 2º DAW. Laravel.                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            10 meses ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-338" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-338 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-dam category-informatica"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2021/02/Hibernate_logo_a-720x222.png">
+                        <a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/">
+                        Test 2º DAM Acceso a datos. Hibernate.                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            10 meses ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-335" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-335 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-dam category-informatica category-test"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2021/02/The-TCP-IP-UDP-IP-Stack-e1613454492352-720x380.jpg">
+                        <a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/">
+                        Test 2º DAM PSP &#8211; Programación de comunicaciones en red                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            10 meses ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-331" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-331 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-dam category-informatica category-test"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2020/11/Threads-695x380.jpg">
+                        <a href="https://telosabes.com/test-ciclo-fp-dam-programacion-de-servicios-y-procesos-temas-1-y-2/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-ciclo-fp-dam-programacion-de-servicios-y-procesos-temas-1-y-2/">
+                        Test ciclo FP DAM &#8211; Programación de Servicios y Procesos- Temas 1 y 2                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            1 año ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-328" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-328 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-dam category-informatica category-test"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2020/11/Odoo-ERP-CRM-720x380.jpg">
+                        <a href="https://telosabes.com/test-ciclo-fp-dam-sistemas-de-gestion-empresarial-odoo-2/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-ciclo-fp-dam-sistemas-de-gestion-empresarial-odoo-2/">
+                        Test ciclo FP &#8211; DAM &#8211; Sistemas de Gestión Empresarial &#8211; Odoo (2)                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            1 año ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-325" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-325 post type-post status-publish format-standard has-post-thumbnail hentry category-fp-ciclo-dam category-informatica category-test"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2020/11/jdbc-415x260.png">
+                        <a href="https://telosabes.com/test-ciclo-fp-dam-acceso-a-datos-jdbc/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-ciclo-fp-dam-acceso-a-datos-jdbc/">
+                        Test Ciclo FP DAM &#8211; Acceso a datos &#8211; JDBC                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            1 año ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-321" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-321 post type-post status-publish format-standard hentry category-fp-ciclo-dam category-informatica"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="">
+                        <a href="https://telosabes.com/test-ciclo-fp-dam-sistemas-de-gestion-empresarial-erp-y-odoo/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/fp-ciclo-dam/" alt="View all posts in FP Ciclo DAM"> 
+                                 FP Ciclo DAM
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-ciclo-fp-dam-sistemas-de-gestion-empresarial-erp-y-odoo/">
+                        Test Ciclo FP DAM Sistemas de gestión empresarial &#8211; ERP y Odoo (Temas 1 &#8211; 5)                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            1 año ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-312" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-312 post type-post status-publish format-standard has-post-thumbnail hentry category-informatica category-test"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2020/03/network-1509371_1280-720x380.jpg">
+                        <a href="https://telosabes.com/test-uf0855-incidencias-en-redes-locales/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-uf0855-incidencias-en-redes-locales/">
+                        Test UF0855 Incidencias en redes locales                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            2 años ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+    
+
+        <article id="post-308" class="col-lg-6 col-sm-6 col-md-6 latest-posts-grid post-308 post type-post status-publish format-standard has-post-thumbnail hentry category-informatica category-microsoft-excel category-test"                 data-mh="archive-layout-grid">
+            
+<div class="align-items-center">
+        <div class="spotlight-post">
+            <figure class="categorised-article">
+                <div class="categorised-article-wrapper">
+                    <div class="data-bg-hover data-bg data-bg-categorised"
+                         data-background="https://telosabes.com/wp-content/uploads/2020/03/excel-720x380.png">
+                        <a href="https://telosabes.com/test-microsoft-excel-basico/"></a>
+                    </div>
+                </div>
+            </figure>
+            <figcaption>
+                <div class="figure-categories figure-categories-bg">
+                                        <ul class="cat-links"><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/informatica/" alt="View all posts in Informática"> 
+                                 Informática
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/microsoft-excel/" alt="View all posts in Microsoft Excel"> 
+                                 Microsoft Excel
+                             </a>
+                        </li><li class="meta-category">
+                             <a class="magazine-7-categories category-color-1" href="https://telosabes.com/category/test/" alt="View all posts in TeLoSabes"> 
+                                 TeLoSabes
+                             </a>
+                        </li></ul>                </div>
+                <h3 class="article-title article-title-2">
+                    <a href="https://telosabes.com/test-microsoft-excel-basico/">
+                        Test Microsoft Excel (Básico)                    </a>
+                </h3>
+                <div class="grid-item-metadata">
+                    
+        <span class="author-links">
+
+        <span class="item-metadata posts-author">
+            <span class="">By</span>
+            <a href="https://telosabes.com/author/telosabes/">
+                admin            </a>
+        </span>
+
+
+            <span class="item-metadata posts-date">
+            2 años ago        </span>
+        </span>
+                        </div>
+                                    <div class="full-item-discription">
+                        <div class="post-description">
+                            <p>Cada vez que hagas el test cambian las preguntas. Pon a prueba tus conocimientos sobre</p>
+
+                        </div>
+                    </div>
+                            </figcaption>
+    </div>
+    </div>
+
+
+
+
+
+
+
+        </article>
+                                <div class="col col-ten">
+                                <div class="magazine-7-pagination">
+                                    
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://telosabes.com/page/2/'>2</a>
+<a class='page-numbers' href='https://telosabes.com/page/3/'>3</a>
+<a class="next page-numbers" href="https://telosabes.com/page/2/">Next</a></div>
+	</nav>                                </div>
+                            </div>
+                                                </div>
+                    </main><!-- #main -->
+                </div><!-- #primary -->
+
+                
+<aside id="secondary" class="widget-area">
+	<div id="search-2" class="widget magazine-7-widget widget_search"><form role="search" method="get" class="search-form" action="https://telosabes.com/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form></div><div id="gamipress_points_widget-2" class="widget magazine-7-widget gamipress_points_widget"><h2 class="widget-title widget-title-1"><span>Puntos que has conseguido</span></h2>
+<div class="gamipress-user-points gamipress-is-current-user gamipress-columns-1 gamipress-layout-top">
+
+    
+    
+        
+        <div class="gamipress-points gamipress-user-points-punto">
+
+                            <div class="gamipress-user-points-image gamipress-user-points-punto-image">
+                                    </div><!-- .gamipress-user-points-image -->
+
+                
+            
+            <div class="gamipress-user-points-description">
+
+                
+                <span class="gamipress-user-points-amount">0</span>
+
+                
+                                    <span class="gamipress-user-points-label">Puntos</span>
+
+                    
+                
+            </div><!-- .gamipress-user-points-description -->
+
+        </div><!-- .gamipress-points -->
+
+        
+    
+        
+        <div class="gamipress-points gamipress-user-points-puntossef">
+
+                            <div class="gamipress-user-points-image gamipress-user-points-puntossef-image">
+                                    </div><!-- .gamipress-user-points-image -->
+
+                
+            
+            <div class="gamipress-user-points-description">
+
+                
+                <span class="gamipress-user-points-amount">0</span>
+
+                
+                                    <span class="gamipress-user-points-label">puntos SEF</span>
+
+                    
+                
+            </div><!-- .gamipress-user-points-description -->
+
+        </div><!-- .gamipress-points -->
+
+        
+    
+    
+</div><!-- .gamipress-user-points -->
+</div>		<div id="recent-posts-2" class="widget magazine-7-widget widget_recent_entries">		<h2 class="widget-title widget-title-1"><span>Entradas recientes</span></h2>		<ul>
+											<li>
+					<a href="https://telosabes.com/test-2o-dam-sistemas-de-gestion-empresarial-odoo/">Test 2º DAM Sistemas de Gestión Empresarial. Odoo</a>
+									</li>
+											<li>
+					<a href="https://telosabes.com/test-2o-daw-laravel/">Test 2º DAW. Laravel.</a>
+									</li>
+											<li>
+					<a href="https://telosabes.com/test-2o-dam-acceso-a-datos-hibernate/">Test 2º DAM Acceso a datos. Hibernate.</a>
+									</li>
+											<li>
+					<a href="https://telosabes.com/test-2o-dam-psp-programacion-de-comunicaciones-en-red/">Test 2º DAM PSP &#8211; Programación de comunicaciones en red</a>
+									</li>
+											<li>
+					<a href="https://telosabes.com/test-ciclo-fp-dam-programacion-de-servicios-y-procesos-temas-1-y-2/">Test ciclo FP DAM &#8211; Programación de Servicios y Procesos- Temas 1 y 2</a>
+									</li>
+					</ul>
+		</div><div id="recent-comments-2" class="widget magazine-7-widget widget_recent_comments"><h2 class="widget-title widget-title-1"><span>Comentarios recientes</span></h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://andradecocina.freeddns.org' rel='external nofollow' class='url'>El tito Santi</a></span> en <a href="https://telosabes.com/test-2o-daw-laravel/#comment-1">Test 2º DAW. Laravel.</a></li></ul></div><div id="gamipress_earnings_widget-2" class="widget magazine-7-widget gamipress_earnings_widget"></div></aside><!-- #secondary -->
+        
+    </div>
+
+
+</div>
+
+
+<footer class="site-footer">
+        
+                <div class="site-info">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                                                                Copyright &copy; All rights reserved.                                                                                    <span class="sep"> | </span>
+                        <a href=https://afthemes.com/products/magazine-7 target='_blank'>Magazine 7</a> by AF themes.                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+<a id="scroll-up" class="secondary-color">
+    <i class="fa fa-angle-up"></i>
+</a>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gamipress = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1a58333786","achievement_fields":["id","title","link","thumbnail","points_awarded","excerpt","times_earned","steps","toggle","unlock_button","earners","earners_limit","layout"]};
+var gamipress = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1a58333786","achievement_fields":["id","title","link","thumbnail","points_awarded","excerpt","times_earned","steps","toggle","unlock_button","earners","earners_limit","layout"]};
+var gamipress = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1a58333786","achievement_fields":["id","title","link","thumbnail","points_awarded","excerpt","times_earned","steps","toggle","unlock_button","earners","earners_limit","layout"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/plugins/gamipress/assets/js/gamipress.min.js?ver=1.8.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gamipress_events = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1a58333786","user_id":"0","post_id":"344","debug_mode":""};
+var gamipress_events = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1a58333786","user_id":"0","post_id":"308","debug_mode":""};
+var gamipress_events = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1a58333786","user_id":"0","post_id":"308","debug_mode":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/plugins/gamipress/assets/js/gamipress-events.min.js?ver=1.8.2.2'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/slick/js/slick.min.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/bootstrap/js/bootstrap.min.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/sidr/js/jquery.sidr.min.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/magnific-popup/jquery.magnific-popup.min.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/jquery-match-height/jquery.matchHeight.min.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/theiaStickySidebar/theia-sticky-sidebar.min.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-content/themes/magazine-7/assets/script.js?ver=5.2.13'></script>
+<script type='text/javascript' src='https://telosabes.com/wp-includes/js/wp-embed.min.js?ver=5.2.13'></script>
+
+</body>
+</html>

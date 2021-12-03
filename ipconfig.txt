@@ -1,0 +1,73 @@
+
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : DESKTOP-CTHULHU
+   Sufijo DNS principal  . . . . . : 
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet vEthernet (WSL):
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-15-5D-00-78-F6
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::88e7:5d00:661c:54ed%37(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.24.144.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 620762461
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-27-ED-7F-3A-2C-F0-5D-D3-C2-D3
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 0A-00-27-00-00-06
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::5ce4:3831:1a5f:fd54%6(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 487194663
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-27-ED-7F-3A-2C-F0-5D-D3-C2-D3
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador desconocido Conexi¢n de  rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : TAP-ProtonVPN Windows Adapter V9
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-FF-AB-9E-28-7C
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 2C-F0-5D-D3-C2-D3
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::356c:33b4:61df:e13e%9(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.57(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesi¢n obtenida. . . . . . . . . . . . : viernes, 3 de diciembre de 2021 5:18:43
+   La concesi¢n expira . . . . . . . . . . . : viernes, 3 de diciembre de 2021 17:18:43
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.1.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 103608413
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-27-ED-7F-3A-2C-F0-5D-D3-C2-D3
+   Servidores DNS. . . . . . . . . . . . . . : 80.58.61.250
+                                       80.58.61.254
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado

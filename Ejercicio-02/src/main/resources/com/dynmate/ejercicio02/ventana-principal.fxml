@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="183.0" prefWidth="263.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.dynmate.ejercicio02.AppController">
+   <children>
+      <ComboBox fx:id="comboPrograma" layoutX="57.0" layoutY="34.0" prefWidth="150.0" promptText="Elige un programa..." />
+      <Button fx:id="btnAbrir" layoutX="57.0" layoutY="129.0" mnemonicParsing="false" onAction="#onClickAbrir" prefHeight="25.0" prefWidth="150.0" text="Abrir" />
+   </children>
+</AnchorPane>

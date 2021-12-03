@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.web.WebView?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="791.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.dynmate.naveganator.NaveganatorController">
+   <children>
+      <WebView fx:id="vistaWeb" layoutY="109.0" minHeight="291.0" minWidth="600.0" prefHeight="291.0" prefWidth="791.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="109.0" />
+      <TextField fx:id="txtBarraBusqueda" layoutX="30.0" layoutY="24.0" prefHeight="25.0" prefWidth="454.0" />
+      <Button fx:id="btnBuscar" layoutX="492.0" layoutY="24.0" mnemonicParsing="false" onAction="#onClickBuscar" text="Buscar" />
+      <Button fx:id="btnGuardarTXT" layoutX="391.0" layoutY="64.0" mnemonicParsing="false" onAction="#onClickGuardarTXT" prefHeight="25.0" prefWidth="90.0" text="guardar .txt" />
+      <Button fx:id="btnLocation" layoutX="30.0" layoutY="64.0" mnemonicParsing="false" onAction="#onClickMostrarLocation" prefHeight="25.0" prefWidth="90.0" text="Localización" />
+      <Button fx:id="btnTitulo" layoutX="120.0" layoutY="64.0" mnemonicParsing="false" onAction="#onClickMostrarTitulo" prefHeight="25.0" prefWidth="90.0" text="Título" />
+      <Button fx:id="btnUser" layoutX="210.0" layoutY="64.0" mnemonicParsing="false" onAction="#onClickMostrarUser" prefHeight="25.0" prefWidth="90.0" text="User" />
+      <Button layoutX="300.0" layoutY="64.0" mnemonicParsing="false" onAction="#onClickMostrarImagenes" prefHeight="25.0" prefWidth="90.0" text="Imágenes" />
+   </children>
+</AnchorPane>
