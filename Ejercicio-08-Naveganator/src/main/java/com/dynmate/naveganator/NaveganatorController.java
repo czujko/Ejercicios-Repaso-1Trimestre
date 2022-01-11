@@ -23,7 +23,9 @@ public class NaveganatorController {
     public Button btnBuscar;
     @FXML
     public Button btnGuardarTXT;
+    @FXML
     public Button btnImagenes;
+    @FXML
     public Button btnTitulo;
     private WebEngine motor;
 
@@ -47,7 +49,6 @@ public class NaveganatorController {
 
     }
 
-    //Write page content to file
     public void onClickGuardarTXT(ActionEvent actionEvent) {
         try {
             URL url = new URL(txtBarraBusqueda.getText());
@@ -88,7 +89,6 @@ public class NaveganatorController {
         System.out.println(userAgent);
     }
 
-    //Print console images of the page
     public void onClickMostrarImagenes(ActionEvent actionEvent) {
         try {
             URL url = new URL(txtBarraBusqueda.getText());
@@ -107,6 +107,5 @@ public class NaveganatorController {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }

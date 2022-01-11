@@ -12,7 +12,7 @@ public class Productor extends Thread {
             cola.put(num);
             System.out.println("Productor inserta " + num);
             try {
-                sleep(1000);
+                sleep(100);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
